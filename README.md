@@ -2,4 +2,4 @@
 Techclub GitHub training at the VU
 
 
-Hello my name is whazzupp 'Yall'
+I didn't like the old version
